@@ -33,3 +33,15 @@
 **6.Wavelet Denoising for Multi-lead High Resolution ECG Signals：**
 
 贡献：感觉没啥用的会议文章
+
+
+
+**7.Using Stationary Wavelet Transformation for Signal Denoising：**
+
+贡献：平稳小波变换抑制吉布斯现象
+
+
+
+**8.Two Denoising Methods by Wavelet Transform：**
+
+贡献：SSNF与UDWT
