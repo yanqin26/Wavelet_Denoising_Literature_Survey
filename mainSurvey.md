@@ -34,7 +34,7 @@
 
 ## 2.Research Direction
 
-### 2.1 research on wavelet adaptive thresholding
+### 2.1 research on wavelet thresholding
 
 
 
