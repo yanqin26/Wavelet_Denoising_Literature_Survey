@@ -1,77 +1,18 @@
 # Literature Survey for Wavelet Denoising - Yiqiao Chen 30/3/2024
 
-## 1.professional vocabulary
+**1.Wavelet-based Denoising_A Brief Review：**
+贡献：简单的小波滤波综述
 
-### 1.1 soft thresholding
+**2.WAVELET-BASED DENOISING BY CUSTOMIZED THRESHOLDING：**
+贡献：自定义阈值函数
 
-### 1.2 hard thresholding
+**3.Wavelet Transform and Signal Denoising using Wavelet Method：**
 
-### 1.3 wavelet coefficients
+贡献：证明了小波去噪在低SNR情况下的优越性
 
-### 1.4 detail coefficent
+**4.Wavelet Denoising of Infrared Spectra：**
 
-### 1.5 custom thresholdig function
+贡献：列举了几类小波滤波并比较出其中最优的两种
 
-### 1.6 wavelet shrinkage
-
-### 1.7 variational problem
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 2.Research Direction
-
-### 2.1 research on wavelet thresholding
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 3.Denoising Algorithm
-
-### 3.1 translation invariant denoising
-
-### 3.2 coefficient-dependent denoising
-
-### 3.3 SURE-based denoising
-
-### 3.4 redundant decomposition denoising
-
-### 3.5 adaptive wavelet denoising
-
-### 3.6 bayesian denoising 
-
-### 3.7 block matching 3D filtering(BM3D)
-
-### 3.8 non-local means filter method
+**5.Wavelet denoising of Gaussian peaks_a comparative study：**
+贡献：提出了一系列滤波器的评价指标（定量，定性）
