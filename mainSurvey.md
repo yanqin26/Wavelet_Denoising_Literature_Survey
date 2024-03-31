@@ -12,7 +12,9 @@
 
 ### 1.5 custom thresholdig function
 
+### 1.6 wavelet shrinkage
 
+### 1.7 variational problem
 
 
 
