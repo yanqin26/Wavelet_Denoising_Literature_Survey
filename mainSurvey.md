@@ -51,3 +51,9 @@
 **9.The What, How, and Why of Wavelet Shrinkage Denoising：**
 
 贡献：对小波收缩去噪的实用性进行更真实的评估，值得一读
+
+
+
+**10.Speech Denoising Based on Improved Discrete Wavelet Packet Decomposition：**
+
+贡献：小波包频域去噪，文章没啥用，但是引出关于“鲁棒性“的思考很重要
