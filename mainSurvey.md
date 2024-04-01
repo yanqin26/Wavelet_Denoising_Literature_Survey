@@ -32,7 +32,7 @@
 
 **6.Wavelet Denoising for Multi-lead High Resolution ECG Signals：**
 
-贡献：感觉没啥用的会议文章
+贡献：感觉没啥用，4页的期刊文章
 
 
 
@@ -44,4 +44,10 @@
 
 **8.Two Denoising Methods by Wavelet Transform：**
 
-贡献：SSNF与UDWT
+贡献：SSNF与UDWT，6页的期刊文章
+
+
+
+**9.The What, How, and Why of Wavelet Shrinkage Denoising：**
+
+贡献：对小波收缩去噪的实用性进行更真实的评估，值得一读
