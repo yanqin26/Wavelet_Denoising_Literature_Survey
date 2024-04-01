@@ -57,3 +57,9 @@
 **10.Speech Denoising Based on Improved Discrete Wavelet Packet Decomposition：**
 
 贡献：小波包频域去噪，文章没啥用，但是引出关于“鲁棒性“的思考很重要
+
+
+
+**11.Optimization of signal denoising in discrete wavelet transform：**
+
+贡献：
