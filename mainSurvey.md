@@ -63,3 +63,9 @@
 **11.Optimization of signal denoising in discrete wavelet transform：**
 
 贡献：通过优化小波来优化DWT，交叉验证CV方法
+
+
+
+**12.Optimal wavelet denoising for phonocardiograms：**
+
+贡献：将平均值与小波分析相结合以消除 PCG 中的噪声，想一想运动伪影
