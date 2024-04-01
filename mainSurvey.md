@@ -62,4 +62,4 @@
 
 **11.Optimization of signal denoising in discrete wavelet transform：**
 
-贡献：
+贡献：通过优化小波来优化DWT，交叉验证CV方法
