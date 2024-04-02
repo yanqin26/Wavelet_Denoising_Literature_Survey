@@ -69,3 +69,9 @@
 **12.Optimal wavelet denoising for phonocardiograms：**
 
 贡献：将平均值与小波分析相结合以消除 PCG 中的噪声，想一想运动伪影
+
+
+
+**13.Norm Thresholding Method in Wavelet Regression：**
+
+贡献：小波回归中的NORM阈值方法（偏统计）
