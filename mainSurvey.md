@@ -75,3 +75,9 @@
 **13.Norm Thresholding Method in Wavelet Regression：**
 
 贡献：小波回归中的NORM阈值方法（偏统计）
+
+
+
+**14.Improved Wavelet Denoising via Empirical Wiener Filtering：**
+
+贡献：提升小波收缩
