@@ -81,3 +81,15 @@
 **14.Improved Wavelet Denoising via Empirical Wiener Filtering：**
 
 贡献：提升小波收缩
+
+
+
+**15.Improved Wavelet Denoising by Non-Convex Sparse Regularization Under Double Wavelet Domains：**
+
+贡献：双小波去噪（DWAD）方法，信号的稀疏性是关键。感觉很实用的文章
+
+
+
+**16.Filtering Noise from Images with Wavelet Transforms：**
+
+贡献：1991年的文章
