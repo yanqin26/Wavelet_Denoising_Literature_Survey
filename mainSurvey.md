@@ -92,4 +92,28 @@
 
 **16.Filtering Noise from Images with Wavelet Transforms：**
 
-贡献：1991年的文章
+贡献：1991年的文章，看着图一乐
+
+
+
+**17.Extreme value analysis of empirical frame coefficients and implications for denoising by soft-thresholding：**
+
+贡献：冗余第二代小波（第二代小波是目前主要方向）
+
+
+
+**18.Essential Wavelets for Statistical Applications and Data Analysis：**
+
+贡献：一本书的引言介绍，讲小波统计分析的
+
+
+
+**19.Different Discrete Wavelet Transforms Applied to Denoising Analytical Data：**
+
+贡献：介绍了几种DWT，推荐阅读
+
+
+
+**20.Artifact-free Wavelet Denoising: Non-convex Sparse Regularization, Convex Optimization：**
+
+贡献：小波稀疏，凸优化
