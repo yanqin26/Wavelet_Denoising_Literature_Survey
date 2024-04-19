@@ -2,4 +2,8 @@
 As a repository for notes and thinking
 
 **Introduction for the files:**
-1.notes that starts by "R1" means read it once(just reading Abstarct, Introduction, Conclusion, Result and Disscustion)
+1.notes that starts by "R1" means round 1 of survey(just reading Abstarct, Introduction, Conclusion, Result and Disscustion)
+
+2.notes that starts by "R2" means round 2 of surey(reading main body, algorithm and try to code implementation at https://github.com/yanqin26/Haar_Wavelet_Denoising)
+
+3.notes that starts by "R3" means round 3 of surey(reading tests and data prove, know how to show others your work in this research filed)
